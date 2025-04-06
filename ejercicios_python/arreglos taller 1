@@ -1,4 +1,0 @@
-//
-let arr1 = [200, -100, 45, 78, 32];
-console.log(arr1[2]); // 45
-console.log(arr1[4]); // 32
